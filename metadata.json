@@ -1,0 +1,6 @@
+{
+  "name": "Knot",
+  "description": "Minimalist continuous audio loop player for custom tracks and ambient soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
